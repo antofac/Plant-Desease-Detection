@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Classification using CNNs 🌿
+# Plant Disease Classification using CNNs 
 
 Image classification using **Convolutional Neural Networks (CNNs)** has proven to be highly effective in recognizing patterns and diagnosing plant diseases from leaf images. This approach is increasingly applied in both **research settings** and the **agricultural industry**, especially in modern cropping systems.
 
